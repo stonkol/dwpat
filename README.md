@@ -1,2 +1,5 @@
 # dwpat
-Drawing pixel art in the terminal
+
+A multiplayer drawing pixel art app in the terminal.
+
+Withh chat functionality.
